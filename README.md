@@ -16,6 +16,6 @@
   <img src="https://skillicons.dev/icons?i=react,next,threejs,gatsby,graphql,javascript,typescript,redux,styledcomponents,docker" /><br>
     <img src="https://skillicons.dev/icons?i=jest,mysql,sass,tailwind,vscode,figma,git,blender" />
 </div>
-  <br/><br/><br/>
+  <br/><br/>
 <hr/>
 <br>
