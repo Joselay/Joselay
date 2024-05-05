@@ -12,7 +12,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,remix,tailwind,sass,styledcomponents	" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,remix,tailwind,sass,styledcomponents" /><br>
 </div>
   <br/>
 <hr/>
