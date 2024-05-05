@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,threejs,gatsby,remix,tailwind,sass,figma,styledcomponents" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,express,nestjs,graphql,mongodb,firebase,supabase,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=jest,docker,git,github,gitlab" /><br>
+  <img src="https://skillicons.dev/icons?i=jest,docker,aws,git,github,gitlab" /><br>
 </div>
   <br/>
 <hr/>
