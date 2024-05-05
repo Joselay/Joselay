@@ -11,15 +11,9 @@
 </h1>
 </br>
 
-<h3 align="center">I'm a Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <br/>
-
-<div align="center">
-
- <strong>🌎 I'm based in Cambodia </strong>
-
- </div>
 
 
 <div align="center"> 
