@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,threejs,gatsby,remix,tailwind,sass,figma,styledcomponents" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,firebase,supabase,mysql&perline=3" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,firebase,supabase,mysql" /><br>
 </div>
   <br/>
 <hr/>
