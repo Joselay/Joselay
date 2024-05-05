@@ -11,7 +11,6 @@
 </h1>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<hr/>
 <br/>
 <br/>
 <div align="center">
