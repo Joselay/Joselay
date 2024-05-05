@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,threejs,gatsby,remix,tailwind,sass,figma,styledcomponents" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,express,nestjs,graphql,mongodb,firebase,supabase,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=jest,docker,aws,git,github,gitlab,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=jest,docker,aws,git,github,gitlab,postman,webpack" /><br>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,java,go,rust,lua,php" /><br>
   <img src="https://skillicons.dev/icons?i=vim,neovim,emacs,vscode,idea,visualstudio" /><br>
   <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu" /><br>
