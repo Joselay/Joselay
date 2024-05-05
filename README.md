@@ -12,7 +12,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,remix,tailwind,sass,styledcomponents" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gatsby,remix,tailwind,sass,figma,styledcomponents" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb" /><br>
 </div>
   <br/>
 <hr/>
