@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,express,nestjs,graphql,mongodb,firebase,supabase,mysql" /><br>
   <img src="https://skillicons.dev/icons?i=jest,docker,aws,git,github,gitlab,postman" /><br>
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,go,rust,lua,php" /><br>
-  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea" /><br>
+  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea,visualstudio" /><br>
 </div>
   <br/>
 <hr/>
