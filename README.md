@@ -20,8 +20,6 @@
 
  </div>
 
-![GoLang](https://github.com/Joselay/Joselay/assets/98274892/794278ff-7ba5-4ef6-84f2-0de4d4ad4311)
-
 
 <div align="center"> 
   <a href="mailto:tongmenglaysmae5@gmail.com">
@@ -36,7 +34,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  ![GoLang](https://github.com/Joselay/Joselay/assets/98274892/794278ff-7ba5-4ef6-84f2-0de4d4ad4311)
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
