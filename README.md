@@ -16,7 +16,7 @@
 
 <div align="center">
 
- 🌎 I'm based in Cambodia 
+ <strong>🌎 I'm based in Cambodia </strong>
 
  </div>
 
