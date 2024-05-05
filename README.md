@@ -12,9 +12,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,github,gitlab,express,firebase,mongodb,vim,neovim" /><br>
-  <img src="https://skillicons.dev/icons?i=react,next,threejs,gatsby,graphql,javascript,typescript,redux,styledcomponents,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=jest,mysql,sass,tailwind,vscode,figma,git,blender" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,remix,tailwind,sass,styledcomponents	" /><br>
 </div>
   <br/>
 <hr/>
