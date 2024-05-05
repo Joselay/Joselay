@@ -15,11 +15,6 @@
 
 <br/>
 
-
-
-<p align="center">
-  <img src="https://github.com/Joselay/Joselay/assets/98274892/794278ff-7ba5-4ef6-84f2-0de4d4ad4311" />
-</p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
