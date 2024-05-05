@@ -16,17 +16,6 @@
 <br/>
 
 
-<div align="center"> 
-  <a href="mailto:tongmenglaysmae5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/smaetongmenglay/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://jose-olive.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
 <p align="center">
   <img src="https://github.com/Joselay/Joselay/assets/98274892/794278ff-7ba5-4ef6-84f2-0de4d4ad4311" />
