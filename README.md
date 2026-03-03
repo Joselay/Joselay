@@ -4,6 +4,8 @@ Full-stack developer at [SEA Ventures](https://github.com/Sea-Ventures), based i
 
 I build across the stack — web apps, mobile apps, APIs, and CLI tools.
 
+<a href="#"><img src="contributions.svg"></a>
+
 ## Stack
 
 **Languages** — TypeScript · Go · Dart  
@@ -21,5 +23,3 @@ I build across the stack — web apps, mobile apps, APIs, and CLI tools.
 ## Find me
 
 [j0se.dev](https://j0se.dev) · [GitHub](https://github.com/Joselay)
-
-<a href="#"><img src="contributions.svg"></a>
