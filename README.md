@@ -21,3 +21,5 @@ I build across the stack — web apps, mobile apps, APIs, and CLI tools.
 ## Find me
 
 [j0se.dev](https://j0se.dev) · [GitHub](https://github.com/Joselay)
+
+<a href="#"><img src="contributions.svg"></a>
